@@ -31,7 +31,7 @@ This project focuses on cleaning a raw layoffs dataset using MySQL. The objectiv
 
 ## 🛠️ SQL Skills Demonstrated
 
-`CTEs` | `Window Functions` | `ROW_NUMBER()` | `PARTITION BY` | `JOINS` | `TRIM()` | `UPDATE` | `DELETE` | `STR_TO_DATE()` | `ALTER TABLE`
+`CTEs` | `Window Functions` | `ROW_NUMBER()` | `JOINS` | `TRIM()` | `UPDATE` | `DELETE` | `STR_TO_DATE()` | `ALTER TABLE`
 
 ## 📁 Project Structure
 
